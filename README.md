@@ -33,4 +33,4 @@ This .pbix file uses a live connection to a MySQL database. It will not display 
 
 ## 📸 Preview
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](dashboard_preview.png)
